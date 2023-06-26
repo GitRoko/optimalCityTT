@@ -1,4 +1,4 @@
-# Optimal City Test Task [DEMO-LINK] (https://gitroko.github.io/optimalCityTT/)
+# Optimal City Test Task [DEMO-LINK](https://gitroko.github.io/optimalCityTT/)
 
 Задача
 Есть структура данных, из 20-30 элементов
